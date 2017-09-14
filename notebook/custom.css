@@ -1,0 +1,75 @@
+/*Some css fixes to use night theme with IPython slides*/
+body {
+    background-color: #111111;
+}
+.reveal p {
+    color: white;
+}
+.reveal ul, ol {
+    color: white;
+}
+.reveal table th, .reveal table td {
+    color: white;
+}
+.reveal h1 {
+    color: white;
+    font-family: Arial Black;
+}
+.reveal h2 {
+    color: white;
+    font-family: Arial Black;
+}
+.reveal h3 {
+    color: white;
+    font-family: Arial Black;
+}
+.reveal h4 {
+    color: white;
+    font-family: Arial Black;
+}
+.reveal h5 {
+    color: white;
+    font-family: Arial Black;
+}
+.reveal h6 {
+    color: white;
+    font-family: Arial Black;
+}
+.reveal center {
+    color: white;
+}
+.reveal a {
+    color: #33EFFF
+}
+.reveal code {
+    background-color: #111111;
+    color: white;
+}
+.reveal .controls .navigate-left, .reveal .controls .enabled.navigate-left{
+    border-right-color: orange;
+}
+.reveal .controls .navigate-right, .reveal .controls .enabled.navigate-right{
+    border-left-color: orange;
+}
+.reveal .controls .navigate-up, .reveal .controls .enabled.navigate-up{
+    border-bottom-color: orange;
+}
+.reveal .controls .navigate-down, .reveal .controls .enabled.navigate-down{
+    border-top-color: orange;
+}
+div.output_area pre {
+    color: white;
+}
+div.output_stderr {
+    background: #F00;
+}
+div.input_prompt {
+    color: white;
+}
+.MathJax {
+    color: white;
+}
+::selection {
+    color: blue;
+    background: white;
+}
