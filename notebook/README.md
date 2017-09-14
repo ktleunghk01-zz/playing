@@ -1,4 +1,5 @@
-Some random codes for notebook formatting
+### Some random codes for notebook formatting
+***
 
 To convert notebook to slide:
 ```
